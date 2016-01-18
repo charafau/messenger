@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#607D8B</color>
+    <color name="appBlue">#4CC3D9</color>
+    <color name="appPurpule">#93648D</color>
+    <color name="appBlack">#404040</color>
+    <color name="appYellow">#FFC65D</color>
+    <color name="appDarkBlue">#1c82bc</color>
+
+    <color name="mintGreen">#7BC8A4</color>
+    <color name="twitterBlue">#138bf2</color>
+    <color name="facebookBlue">#2d4388</color>
+
+    <color name="textGrey">#778791</color>
+
+    <!-- Greyscales -->
+    <color name="grey50">#FAFAFA</color>
+    <color name="grey200">#EEEEEE</color>
+    <color name="grey300">#E0E0E0</color>
+    <color name="grey500">#9E9E9E</color>
+    <color name="grey600">#757575</color>
+    <color name="grey800">#424242</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+</resources>
